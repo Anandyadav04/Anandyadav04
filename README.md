@@ -23,7 +23,6 @@
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -40,7 +39,7 @@
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
@@ -54,7 +53,6 @@
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -63,7 +61,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 MediTrack
+### 🏥 MediTrack Healtcare webapp
 AI-powered healthcare management platform with:
 
 - Skin disease prediction
@@ -76,17 +74,24 @@ AI-powered healthcare management platform with:
 
 ---
 
-### 🍽️ AI Ingredient Analysis
+### 🍽️ RiskRead: AI Ingredient Analysis
 AI-based ingredient analysis system designed to process and understand food-related inputs.
 
 **Tech Used:** Python, Machine Learning
 
 ---
 
-### ✈️ Travel Management System
-Desktop-based travel booking and management application.
+### 🎓 StudyBitz Learning portal
+Full-stack Learning Management System (LMS) built using the MERN stack.
 
-**Tech Used:** Java Swing, MySQL
+#### Features
+- Role-based access for Students, Instructors, and Admins
+- Video lectures, articles, quizzes, and certificate generation
+- JWT authentication and secure REST APIs
+- Course enrollment and management system
+- Scalable cloud database integration with MongoDB Atlas
+
+**Tech Used:** MongoDB, Express.js, React.js, Node.js, JWT
 
 ---
 
@@ -103,16 +108,6 @@ Desktop-based travel booking and management application.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anandyadav04&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced Django
-- REST API Design
-- System Design Basics
-- Docker & Deployment
-- AI/ML Integration in Web Applications
 
 ---
 
