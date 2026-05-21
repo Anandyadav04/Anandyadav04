@@ -48,11 +48,6 @@ AI-powered healthcare management platform with:
 
 **Tech:** Django, TensorFlow, OpenCV, MySQL
 
-#### 🛡️ TrafficShield
-Intelligent load balancing and performance optimization system built around real-world infrastructure concepts.
-
-**Tech:** FastAPI, Docker, Redis, NGINX, Monitoring
-
 #### 🍽️ AI Ingredient Analysis
 AI-based ingredient analysis system designed to process and understand food-related inputs.
 
