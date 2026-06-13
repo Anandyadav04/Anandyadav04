@@ -143,11 +143,6 @@ A complete Learning Management System (LMS) built using the MERN stack.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anandyadav04&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anandyadav04&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anandyadav04&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
